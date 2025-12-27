@@ -73,7 +73,7 @@ body {
 }
 
 .sec-three {
-    background-color: #6462FD;
+    background-color: lightsalmon;
     color: black;
     padding: 20px;
     display: inline-block;
@@ -82,7 +82,7 @@ body {
 }
 
 .sec-six {
-    background-color: #6462FD;
+    background-color: lightgreen;
     color: black;
     padding: 20px;
     display: inline-block;
@@ -90,7 +90,7 @@ body {
     vertical-align: top;
 }
 .sec-four {
-    background-color: #FE7517;
+    background-color: lightblue;
     color: black;
     padding: 20px;
     display: inline-block;;
